@@ -1,4 +1,4 @@
-# Frontend Mentor - Job listings with filtering solution
+# Job listings with filtering
 
 Development of this project is still in process.
 

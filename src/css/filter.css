@@ -1,0 +1,22 @@
+.filter {
+  position: relative;
+  display: flex;
+  bottom: 2.25rem;
+  background-color: white;
+  min-height: 5rem;
+  margin: 0 1.5rem;
+  border-radius: 0.75rem; }
+  .filter-content {
+    padding: 1rem;
+    align-items: center;
+    display: flex;
+    justify-content: space-between; }
+    .filter-content_tags span {
+      display: inline-flex;
+      margin-right: 1rem; }
+      .filter-content_tags span p {
+        margin: 0; }
+      .filter-content_tags span a {
+        text-decoration: none;
+        color: white;
+        background-color: #5da5a4; }

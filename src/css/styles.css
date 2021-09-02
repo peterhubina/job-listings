@@ -1,0 +1,17 @@
+* {
+  font-size: 16px; }
+
+.header {
+  height: 9.375rem;
+  background-color: #5da5a4; }
+
+.container {
+  background-color: #f0fafb;
+  display: flex;
+  flex-direction: column; }
+
+.container-filter {
+  margin-top: 5rem; }
+
+footer {
+  text-align: center; }
